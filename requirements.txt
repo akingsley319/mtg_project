@@ -1,3 +1,5 @@
+mtgsdk
+dill
 pandas
 numpy
 -e .
