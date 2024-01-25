@@ -2,4 +2,6 @@ mtgsdk
 dill
 pandas
 numpy
+matplotlib
+plotly
 -e .
