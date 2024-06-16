@@ -7,4 +7,5 @@ plotly
 seaborn
 selenium
 beautifulsoup4
+unidecode
 #-e .
